@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet');
+:root {
+     --pbmit-global-color:  #ffba00;
+     --pbmit-secondary-color: #1e2227;
+     --pbmit-light-color: #f8f8f8;
+     --pbmit-white-color:#ffffff;
+     --pbmit-blackish-color: #1e2227;
+     --pbmit-link-color-normal: #1e2227;
+     --pbmit-link-color-hover: #ffba00;
+     --pbmit-global-color-rgb: rgb(255, 186, 0);
+     --pbmit-secondary-color-rgb:rgb(30, 34, 39);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'Rubik', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 15px;
+     --pbmit-body-typography-line-height: 24px;
+     --pbmit-body-typography-color: #525558;
+     --pbmit-heading-typography-font-family: 'Montserrat', sans-serif;
+     --pbmit-heading-color: #1e2227;
+     --pbmit-heading-font-variant: 700;
+     --pbmit-btn-typography-font-family:'Rubik', sans-serif;
+     --pbmit-btn-typography-variant: 500;
+     --pbmit-btn-typography-font-size: 13px;
+     --pbmit-btn-typography-line-height: 26px;
+}
+ 

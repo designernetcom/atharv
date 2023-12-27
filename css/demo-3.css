@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet');
+:root {
+     --pbmit-global-color:  #fc1520;
+     --pbmit-secondary-color: #232639;
+     --pbmit-light-color: #f9f9f9;
+     --pbmit-white-color:#ffffff;
+     --pbmit-blackish-color: #232639;
+     --pbmit-link-color-normal: #232639;
+     --pbmit-link-color-hover: #fc1520;
+     --pbmit-global-color-rgb: rgb(252, 21, 32);
+     --pbmit-secondary-color-rgb:rgb(35, 38, 57);
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'Rubik', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 15px;
+     --pbmit-body-typography-line-height: 1.5;
+     --pbmit-body-typography-color: #525558;
+     --pbmit-heading-typography-font-family: 'Titillium Web', sans-serif;
+     --pbmit-heading-color: #232639;
+     --pbmit-heading-font-variant: 700;
+     --pbmit-btn-typography-font-family:'Rubik', sans-serif;
+     --pbmit-btn-typography-variant: 500;
+     --pbmit-btn-typography-font-size: 13px;
+     --pbmit-btn-typography-line-height: 26px;
+	 --border-radius: 32px;
+	 --box-shadow-blackish: 0px 0px 23.25px 1.75px rgba(14,47,68, .30);
+}
+ 
